@@ -49,6 +49,6 @@ Contributing:
 
 Authors:
 1. Saravana Kumar S | B.E CSE | Software Developer
-2. Rajkumar R | B.E CSE | AI Enthusiast | Quantum Computing 
+2. Sruthi B   | B.E CSE | Full Stack Developer
 3. Thasneem Y | B.E CSE | Full Stack Developer
-4. Sruthi B   | B.E CSE | Full Stack Developer
+4. Rajkumar R | B.E CSE | AI Enthusiast | Quantum Computing Aspirant 
